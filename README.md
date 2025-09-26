@@ -61,9 +61,11 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 9    | Média      | Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.                                        | 5          | 1      |
 | 10   | Média      | Como cliente, quero no PowerBi, que minhas perguntas sobre as exp e imp sejam respondidas com gráficos e usando como base os dados oficiais fornecidos pelo site oficial| 5          | 1      |
 | 11   | Média      | Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.                                        | 5          | 1      |
-| ...  | Média      | ...                                                                                                                                                    | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes   | 2          | 3      |
-
+| 12   | Média      | Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.                                        | 5          | 1      |
+| 13   | Média      | Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.                                        | 5          | 1      |
+| 14   | Média      | Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.                                        | 5          | 1      |
+| 15   | Média      | Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.                                        | 5          | 1      |
+| 16   | Média      | Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.                                        | 5          | 1      |
 
 
 
