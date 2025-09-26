@@ -1,24 +1,34 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - [Projeto-Primeiro-Semestre-Logistica]
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+- Qual problema resolve?
+- Resolve de forma primária a necessidade de ilustrar os dados de exportação e importação dos estados brasileiros e seus respectivos municipios paulistas. 
+- Qual hipótese será validada?
+- Quais mercados, cargas e regiões tiveram acrescimo ou descrecimo em suas exportações e importações.
+- Qual valor será entregue ao usuário final?
+- Dashboards capazez de demonstrar ao cliente informações iniciais sobre a exportações e importações.  
 
 ---
 
 ## 📝 Descrição da Solução
+De forma a conseguir proporciar ao cliente um produto inicialmente demonstrativo exibindo seu principal apice futuro, adicionamentos
+dashboards separados por importações e exportações tanto dos estados e municipios paulistas, propondo de momento sua exibição das
+cargas mais movimentadas, valor e historico comercial, nós limitando ao desenvolvimento dos dashboard e gráficos para que o produto
+base consiga ser produzido e formado a base de onde suas melhorias serão implementadas.
+
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
 - Funcionalidades principais incluídas  
 - Limitações conhecidas  
 - Escopo reduzido (somente o essencial para validar a ideia)  
-
+  
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:** Carlos Bastos / José Jaétis, Programa rapido, responsivo, acessivel e disponibilize informações necessárias de maneira clara, atendemos
+  a disponibilidade das informações base requisitadas de maneira rapida com dashboard responsivo.  
+- **Persona 2:** Marcus Nascimento, Programa rapido, responsivo, acessivel e disponibilize informações necessárias de maneira clara, atendemos
+  a disponibilidade das informações base requisitadas de maneira rapida com dashboard responsivo.   
 
 ---
 
