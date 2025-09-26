@@ -12,15 +12,15 @@
 ---
 
 ## 📝 Descrição da Solução
-De forma a conseguir proporciar ao cliente um produto inicialmente demonstrativo exibindo seu principal apice futuro, adicionamentos
-dashboards separados por importações e exportações tanto dos estados e municipios paulistas, propondo de momento sua exibição das
-cargas mais movimentadas, valor e historico comercial, nós limitando ao desenvolvimento dos dashboard e gráficos para que o produto
-base consiga ser produzido e formado a base de onde suas melhorias serão implementadas.
-
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
 - Funcionalidades principais incluídas  
 - Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+- Escopo reduzido (somente o essencial para validar a ideia)
+
+  De forma a conseguir proporciar ao cliente um produto inicialmente demonstrativo exibindo suas informações primárias e estrutura para o futuro, adicionamos
+dashboards separados por importações e exportações tanto dos estados e municipios paulistas, propondo de momento sua exibição das
+cargas mais movimentadas, valor e historico comercial, nós limitando ao desenvolvimento dos dashboard e gráficos para que o produto
+base consiga ser produzido e formado a base de onde suas melhorias serão implementadas.
   
 ---
 
@@ -35,7 +35,7 @@ base consiga ser produzido e formado a base de onde suas melhorias serão implem
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
+| US1 | 	Como Cliente, quero no Python, mesclar dos documentos de exp e ixp dos estados de 2023, 2024 e 2025         | Alta       | 5 pontos   |
 | US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
 
 ---
