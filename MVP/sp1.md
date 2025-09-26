@@ -36,7 +36,21 @@ base consiga ser produzido e formado a base de onde suas melhorias serão implem
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | 	Como Cliente, quero no Python, mesclar dos documentos de exp e ixp dos estados de 2023, 2024 e 2025         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US2 |   Como cliente, quero no Python, mesclar dos documentos de exp e ixp dos municipios de São Paulo de 2023, 2024 e 2025         | Alta      | 3 pontos   |
+| US3 |   Como cliente, quero no Python, agrupe em um unico documento todos dados de imp e exp.         | Alta      | 3 pontos   |
+| US4 |   Como cliente, quero no powerbi, uma validação para quanto os dados de peso de todas as imp e exp de 2023, 2024 e 2025         | Alta      | 3 pontos   |
+| US5 |   Como cliente, quero no powerbi, uma validação para quanto os dados de valor de todas as imp e exp de 2023, 2024 e 2025         | Alta      | 3 pontos   |
+| US6 |   Como cliente, quero no PowerBi, alguns templates de dashboard para que seja possivel decidir qual visual será definido para o projeto.         | Média      | 3 pontos   |
+| US7 |   Como cliente, quero no PowerBI, um dashboard para exportação e importação dos municipios de são paulo         | Alta      | 3 pontos   |
+| US8 |   Como cliente, quero no PowerBI, um dashboard para exportação e importação dos estados brasileiros        | Alta      | 3 pontos   |
+| US9 |   Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.         | Alta      | 3 pontos   |
+| US10 |   Como cliente, quero no PowerBi, que minhas perguntas sobre as exp e imp sejam respondidas com gráficos e usando como base os dados oficiais fornecidos pelo site oficial         | Média      | 3 pontos   |
+| US11 |   Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.         | Média      | 3 pontos   |
+| US12 |   Como cliente, quero no Python, mesclar dos documentos de exp e ixp dos municipios de São Paulo de 2023, 2024 e 2025         | Média      | 3 pontos   |
+| US13 |   Como cliente, quero no Python, mesclar dos documentos de exp e ixp dos municipios de São Paulo de 2023, 2024 e 2025         | Média      | 3 pontos   |
+| US14 |   Como cliente, quero no Python, mesclar dos documentos de exp e ixp dos municipios de São Paulo de 2023, 2024 e 2025         | Média      | 3 pontos   |
+| US15 |   Como cliente, quero no Python, mesclar dos documentos de exp e ixp dos municipios de São Paulo de 2023, 2024 e 2025         | Média      | 3 pontos   |
+| US16 |   Como cliente, quero no Python, mesclar dos documentos de exp e ixp dos municipios de São Paulo de 2023, 2024 e 2025         | Média      | 3 pontos   |
 
 ---
 
