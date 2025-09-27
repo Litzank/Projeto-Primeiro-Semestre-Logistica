@@ -25,10 +25,9 @@ base consiga ser produzido e formado a base de onde suas melhorias serão implem
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** Carlos Bastos / José Jaétis, Programa rapido, responsivo, acessivel e disponibilize informações necessárias de maneira clara, atendemos
+- **Persona 1:** Carlos Bastos / José Jaétis,Cliente que ira receber o produto e valida-lo, querem um programa rapido, responsivo, acessivel e disponibilize informações necessárias de maneira clara, atendemos
   a disponibilidade das informações base requisitadas de maneira rapida com dashboard responsivo.  
-- **Persona 2:** Marcus Nascimento, Programa rapido, responsivo, acessivel e disponibilize informações necessárias de maneira clara, atendemos
-  a disponibilidade das informações base requisitadas de maneira rapida com dashboard responsivo.   
+- **Persona 2:** Marcus Nascimento, Cliente direto para contato sobre sobre atualizações e feedbacks, querem um programa rapido, responsivo, acessivel e disponibilize informações necessárias de maneira clara, atendemos a disponibilidade das informações base requisitadas de maneira rapida com dashboard responsivo.   
 
 ---
 
@@ -44,7 +43,7 @@ base consiga ser produzido e formado a base de onde suas melhorias serão implem
 | US7 |   Como cliente, quero no PowerBI, um dashboard para exportação e importação dos municipios de são paulo         | Alta      | 3 pontos   |
 | US8 |   Como cliente, quero no PowerBI, um dashboard para exportação e importação dos estados brasileiros        | Alta      | 3 pontos   |
 | US9 |   Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.         | Alta      | 3 pontos   |
-| US10 |   Como cliente, quero no PowerBi, que minhas perguntas sobre as exp e imp sejam respondidas com gráficos e usando como base os dados oficiais fornecidos pelo site oficial         | Média      | 3 pontos   |
+| US10 |   Como cliente, quero no PowerBi, que meus questionmentos sobre as exp e imp sejam respondidas com gráficos e usando como base os dados oficiais fornecidos pelo site oficial         | Média      | 3 pontos   |
 | US11 |   Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.         | Média      | 3 pontos   |
 | US12 |   Como cliente, quero no Python, mesclar dos documentos de exp e ixp dos municipios de São Paulo de 2023, 2024 e 2025         | Média      | 3 pontos   |
 | US13 |   Como cliente, quero no Python, mesclar dos documentos de exp e ixp dos municipios de São Paulo de 2023, 2024 e 2025         | Média      | 3 pontos   |
