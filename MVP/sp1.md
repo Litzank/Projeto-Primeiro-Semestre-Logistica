@@ -62,16 +62,16 @@ base consiga ser produzido e formado a base de onde suas melhorias serão implem
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário veja os dados de exportação e importação, de 2023 a 2025, do estados brasileiros e municipios paulistas  
+- O sistema deve registrar informações de carga, balança comercial e valor agregado  
+- Métricas coletadas: Facilidade de acesso as informações (Anos, meses e comparações), rodangem dos Dashboard.  
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Número de usuários que testaram o MVP : 2  
+- Feedback qualitativo (positivo - Construição seguindo de maneira positiva quanto ao cliente, ideias propostas aceitas e organização validados/negativo - Problemas em estruturar o MVP, lidar com os dados de peso e valores)  
+- Indicadores de negócio (Aumento de exportações e importações, novos mercados)  
 
 ---
 
@@ -80,6 +80,7 @@ base consiga ser produzido e formado a base de onde suas melhorias serão implem
 - Ajustes de usabilidade  
 - Expansão de funcionalidades para próximo incremento  
 
+Planejamento futuros serão baseado em mais filtros para demonstração de informações e cenários especificos, ajustando o template para sua acessibilidade será facil com poucos cliques sendo possivel criar os cenários desejados, com no futuro sendo possivel uma junção dos dashboards de exportação e importação, assim criando apenas 2 dashboards ao invés de 4.
 ---
 
 ## 📂 Anexos / Evidências
