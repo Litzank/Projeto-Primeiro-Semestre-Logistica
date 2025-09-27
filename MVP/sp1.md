@@ -90,6 +90,5 @@ base consiga ser produzido e formado a base de onde suas melhorias serão implem
 - Fluxos ou protótipos  
 - Vídeo (MVP)
 
-  | Dashboard | Gráficos |
-|-----------|----------|
-| ![Dash1](Documents/DashboardTemplate.jpeg) | ![](Documents/Jira-Middle-1°Sprint-Jira.pdf) |  
+[Ver Dashboard](../Documents/DashboardTemplate.jpeg)
+[Ver Gráficos](../Documents/DashboardTemplate2.jpeg)
