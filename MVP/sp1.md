@@ -89,6 +89,7 @@ base consiga ser produzido e formado a base de onde suas melhorias serão implem
 - Prints de tela  
 - Fluxos ou protótipos  
 - Vídeo (MVP)
-
+[Ver Jira](../Documents/DashboardTemplate2.jpeg)
+[Ver Jira2](../Documents/DashboardTemplate2.jpeg)
 [Ver Dashboard](../Documents/DashboardTemplate.jpeg)
-[Ver Gráficos](../Documents/DashboardTemplate2.jpeg)
+[Ver Dashboard2](../Documents/DashboardTemplate2.jpeg)
