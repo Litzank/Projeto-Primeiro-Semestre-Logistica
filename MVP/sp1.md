@@ -88,4 +88,8 @@ base consiga ser produzido e formado a base de onde suas melhorias serão implem
 ## 📂 Anexos / Evidências
 - Prints de tela  
 - Fluxos ou protótipos  
-- Vídeo (MVP)  
+- Vídeo (MVP)
+
+  | Dashboard | Gráficos |
+|-----------|----------|
+| ![Dash1](Documents/DashboardTemplate.jpeg ) | ![Gráficos](Documents/Jira-Middle-1°Sprint-Jira.pdf) |  
