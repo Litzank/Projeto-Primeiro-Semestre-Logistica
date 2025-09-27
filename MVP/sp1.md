@@ -79,8 +79,9 @@ base consiga ser produzido e formado a base de onde suas melhorias serão implem
 - Melhorias planejadas após feedback  
 - Ajustes de usabilidade  
 - Expansão de funcionalidades para próximo incremento  
+  Planejamento futuros serão baseado em mais filtros para demonstração de informações e cenários especificos, ajustando o template para sua acessibilidade será facil com poucos cliques sendo possivel criar os
+  cenários desejados, com no futuro sendo possivel uma junção dos dashboards de exportação e importação, assim criando apenas 2 dashboards ao invés de 4.
 
-Planejamento futuros serão baseado em mais filtros para demonstração de informações e cenários especificos, ajustando o template para sua acessibilidade será facil com poucos cliques sendo possivel criar os cenários desejados, com no futuro sendo possivel uma junção dos dashboards de exportação e importação, assim criando apenas 2 dashboards ao invés de 4.
 ---
 
 ## 📂 Anexos / Evidências
