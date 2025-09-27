@@ -25,7 +25,7 @@ base consiga ser produzido e formado a base de onde suas melhorias serão implem
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** Carlos Bastos / José Jaétis,Cliente que ira receber o produto e valida-lo, querem um programa rapido, responsivo, acessivel e disponibilize informações necessárias de maneira clara, atendemos
+- **Persona 1:** Carlos Bastos / José Jaétis, Cliente que ira receber o produto e valida-lo, querem um programa rapido, responsivo, acessivel e disponibilize informações necessárias de maneira clara, atendemos
   a disponibilidade das informações base requisitadas de maneira rapida com dashboard responsivo.  
 - **Persona 2:** Marcus Nascimento, Cliente direto para contato sobre sobre atualizações e feedbacks, querem um programa rapido, responsivo, acessivel e disponibilize informações necessárias de maneira clara, atendemos a disponibilidade das informações base requisitadas de maneira rapida com dashboard responsivo.   
 
