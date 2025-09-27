@@ -59,13 +59,13 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 7    | Alta       | Como cliente, quero no PowerBI, um dashboard para exportação e importação dos municipios de são paulo                                                  | 5          | 1      |
 | 8    | Alta       | Como cliente, quero no PowerBI, um dashboard para exportação e importação dos estados brasileiros                                                      | 5          | 1      |
 | 9    | Média      | Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.                                        | 5          | 1      |
-| 10   | Média      | Como cliente, quero no PowerBi, que minhas perguntas sobre as exp e imp sejam respondidas com gráficos e usando como base os dados oficiais fornecidos pelo site oficial| 5          | 1      |
-| 11   | Média      | Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.                                        | 5          | 1      |
-| 12   | Média      | Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.                                        | 5          | 1      |
-| 13   | Média      | Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.                                        | 5          | 1      |
-| 14   | Média      | Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.                                        | 5          | 1      |
-| 15   | Média      | Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.                                        | 5          | 1      |
-| 16   | Média      | Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.                                        | 5          | 1      |
+| 10   | Média      | Como cliente, quero no PowerBi, que meus questionmentos sobre as exp e imp sejam respondidas com gráficos e usando como base os dados oficiais fornecidos pelo site oficial  | 5          | 1      |
+| 11   | Média      | Como cliente, quero no PowerBI, segmentos da evolução histórica da balança comercial dos estados brasileiros.                                        | 5          | 1      |
+| 12   | Média      | Como cliente, quero no PowerBI, crie segmentos com foco ranking por valor agregado de exportação e importação dos estados brasileiros                                        | 5          | 1      |
+| 13   | Média      | Como cliente, quero no PowerBI, crie segmentos dos municipios com foco nas principais cargas movimentadas.                                        | 5          | 1      |
+| 14   | Média      | Como cliente, quero no PowerBI, crie segmentos da evolução histórica da balança comercial dos municipios paulistas                                        | 5          | 1      |
+| 15   | Média      | Como cliente, quero no PowerBI, crie segmentos com foco ranking por valor agregado de exportação e importação dos municipios paulistas.                                        | 5          | 1      |
+| 16   | Média      | Produzir a apresentação sobre as atualizações ou Validar via contato com cliente tais atualizações.                                        | 5          | 1      |
 
 
 
@@ -75,7 +75,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 29/09/2025 | a fazer  | [MVP](MVP/sp1.md)  |
+| 01                | 29/09/2025 | Completa  | [MVP](MVP/sp1.md)  |
 | 02                | 20/10/2025 | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | 17/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
