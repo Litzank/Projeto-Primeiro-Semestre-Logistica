@@ -92,4 +92,4 @@ base consiga ser produzido e formado a base de onde suas melhorias serão implem
 
   | Dashboard | Gráficos |
 |-----------|----------|
-| ![Dash1](Documents/DashboardTemplate.jpeg ) | ![Gráficos](Documents/Jira-Middle-1°Sprint-Jira.pdf) |  
+| ![Dash1](Documents/DashboardTemplate.jpeg) | ![](Documents/Jira-Middle-1°Sprint-Jira.pdf) |  
