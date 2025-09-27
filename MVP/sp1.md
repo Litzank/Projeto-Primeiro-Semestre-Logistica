@@ -44,12 +44,12 @@ base consiga ser produzido e formado a base de onde suas melhorias serão implem
 | US8 |   Como cliente, quero no PowerBI, um dashboard para exportação e importação dos estados brasileiros        | Alta      | 3 pontos   |
 | US9 |   Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.         | Alta      | 3 pontos   |
 | US10 |   Como cliente, quero no PowerBi, que meus questionmentos sobre as exp e imp sejam respondidas com gráficos e usando como base os dados oficiais fornecidos pelo site oficial         | Média      | 3 pontos   |
-| US11 |   Como cliente, quero no PowerBI, a criação de segmentos dos estados com foco nas principais cargas movimentadas.         | Média      | 3 pontos   |
-| US12 |   Como cliente, quero no Python, mesclar dos documentos de exp e ixp dos municipios de São Paulo de 2023, 2024 e 2025         | Média      | 3 pontos   |
-| US13 |   Como cliente, quero no Python, mesclar dos documentos de exp e ixp dos municipios de São Paulo de 2023, 2024 e 2025         | Média      | 3 pontos   |
-| US14 |   Como cliente, quero no Python, mesclar dos documentos de exp e ixp dos municipios de São Paulo de 2023, 2024 e 2025         | Média      | 3 pontos   |
-| US15 |   Como cliente, quero no Python, mesclar dos documentos de exp e ixp dos municipios de São Paulo de 2023, 2024 e 2025         | Média      | 3 pontos   |
-| US16 |   Como cliente, quero no Python, mesclar dos documentos de exp e ixp dos municipios de São Paulo de 2023, 2024 e 2025         | Média      | 3 pontos   |
+| US11 |   Como cliente, quero no PowerBI, segmentos da evolução histórica da balança comercial dos estados brasileiros.         | Média      | 3 pontos   |
+| US12 |   Como cliente, quero no PowerBI, crie segmentos com foco ranking por valor agregado de exportação e importação dos estados brasileiros         | Média      | 3 pontos   |
+| US13 |   Como cliente, quero no PowerBI, crie segmentos dos municipios com foco nas principais cargas movimentadas.         | Média      | 3 pontos   |
+| US14 |   Como cliente, quero no PowerBI, crie segmentos da evolução histórica da balança comercial dos municipios paulistas         | Média      | 3 pontos   |
+| US15 |   Como cliente, quero no PowerBI, crie segmentos com foco ranking por valor agregado de exportação e importação dos municipios paulistas.         | Média      | 3 pontos   |
+| US16 |   Produzir a apresentação sobre as atualizações ou Validar via contato com cliente tais atualizações.         | Média      | 3 pontos   |
 
 ---
 
