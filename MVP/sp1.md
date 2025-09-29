@@ -97,5 +97,6 @@ base consiga ser produzido e formado a base de onde suas melhorias serão implem
 - Fluxos ou protótipos  
 - Vídeo (MVP)
   
--[Ver Dashboard Final](https://drive.google.com/file/d/1ow9dMS4RwxWZWNk_cRlqAVp8G6Et9l_I/view?usp=drive_link)
+-[Video do Dashboard Final](https://drive.google.com/file/d/1ow9dMS4RwxWZWNk_cRlqAVp8G6Et9l_I/view?usp=drive_link)
+-[Arquivo do Dashboard Final](https://drive.google.com/file/d/1-I8HK4Daz1Qj79HUTbgOloNyHVxCOMWQ/view?usp=drive_link)
 
