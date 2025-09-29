@@ -50,28 +50,28 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como Cliente, quero no Python, mesclar dos documentos de exp e ixp dos estados de 2023, 2024 e 2025                                                    | 5          | 1      |
-| 2    | Alta       | Como cliente, quero no Python, mesclar dos documentos de exp e ixp dos municipios de São Paulo de 2023, 2024 e 2025                                    | 8          | 1      |
+| 1    | Alta       | Como Cliente, quero no Python, mesclar dos documentos de exp e ixp dos estados de 2023, 2024 e 2025                                                    | 3          | 1      |
+| 2    | Alta       | Como cliente, quero no Python, mesclar dos documentos de exp e ixp dos municipios de São Paulo de 2023, 2024 e 2025                                    | 3         | 1      |
 | 3    | Alta       | Como cliente, quero no Python, agrupe em um unico documento todos dados de imp e exp.                                                                  | 5          | 1      |
-| 4    | Alta       | Como cliente, quero no powerbi, uma validação para quanto os dados de peso de todas as imp e exp de 2023, 2024 e 2025                                  | 5          | 1      |
-| 5    | Alta       | Como cliente, quero no powerbi, uma validação para quanto os dados de valor de todas as imp e exp de 2023, 2024 e 2025                                 | 5          | 1      |
-| 6    | Média      | Como cliente, quero no PowerBi, algum templates de dashboard para que seja possivel decidir qual visual será definido para o projeto.                  | 5          | 1      |
-| 7    | Alta       | Como cliente, quero no PowerBI, um dashboard para exportação e importação dos municipios de são paulo                                                  | 5          | 1      |
-| 8    | Alta       | Como cliente, quero no PowerBI, um dashboard para exportação e importação dos estados brasileiros                                                      | 5          | 1      |
-| 9    | Média      | Como cliente, quero no PowerBI, crie um segmento das cargas movimentadas, refletindo por estado, modais, progresso mensal e valor de carga.            | 5          | 1      |
-| 10   | Média      | Como cliente, quero no PowerBi, que as perguntas sobre as exp e imp sejam respondidas com gráficos e usando como base os dados oficiais fornecidos pelo site oficial  | 5          | 1      |
-| 11   | Média      | Como cliente, quero no PowerBI,  segmentos da evolução histórica da balança comercial nos anos de 2023 a 2025 dos estados brasileiros.                 | 5          | 1      |
-| 12   | Média      | Como cliente, quero no PowerBI, crie segmentos com foco ranking por valor importado, frete e seguro dos estados brasileiros.                           | 5          | 1      |
-| 13   | Média      | Como cliente, quero no PowerBI, crie um segmento com foco no peso importado.                                                                           | 5          | 1      |
-| 14   | Média      | Como cliente, quero no PowerBI, crie um filtro por localidade.                                                                                         | 5          | 1      |
-| 15   | Média      | Como cliente, quero no PowerBI, crie um filtro para alocar o bloco de localidades.                                                                     | 5          | 1      |
-| 16   | Média      | Produzir a apresentação sobre as atualizações ou Validar via contato com cliente tais atualizações.                                                    | 5          | 1      |
-| 17   | Média      | Como cliente, quero no powerbi, crie um filtro para demonstrar as regiões das localidades produtoras.                                                  | 5          | 1      |
-| 18   | Média      | Como cliente, quero no powerbi, crie um filtro para mostrar os anos de 2023, 2024 e 2025.                                                              | 5          | 1      |
-| 19   | Média      | Como cliente, quero no powerbi, crie um filtro para que seja possivel limpar os outros filtros selecionados.                                           | 5          | 1      |
-| 20   | Média      | Como cliente, quero no powerbi, um espaço para quando for selecionado a localidade apareça sua bandeira.                                               | 5          | 1      |
-| 21   | Média      | Produzir a apresentação sobre as atualizações ou Validar via contato com cliente tais atualizações.                                                    | 5          | 1      |
-| 22   | Média      | Como cliente, quero no powerbi, adicione as funcionalidades produzidas anteriormentes a todos os outros dashboards produzidos.                         | 5          | 1      |
+| 4    | Alta       | Como cliente, quero no powerbi, uma validação para quanto os dados de peso de todas as imp e exp de 2023, 2024 e 2025                                  | 2          | 1      |
+| 5    | Alta       | Como cliente, quero no powerbi, uma validação para quanto os dados de valor de todas as imp e exp de 2023, 2024 e 2025                                 | 2          | 1      |
+| 6    | Média      | Como cliente, quero no PowerBi, algum templates de dashboard para que seja possivel decidir qual visual será definido para o projeto.                  | 1          | 1      |
+| 7    | Alta       | Como cliente, quero no PowerBI, um dashboard para exportação e importação dos municipios de são paulo                                                  | 2          | 1      |
+| 8    | Alta       | Como cliente, quero no PowerBI, um dashboard para exportação e importação dos estados brasileiros                                                      | 2          | 1      |
+| 9    | Média      | Como cliente, quero no PowerBI, crie um segmento das cargas movimentadas, refletindo por estado, modais, progresso mensal e valor de carga.            | 1          | 1      |
+| 10   | Média      | Como cliente, quero no PowerBi, que as perguntas sobre as exp e imp sejam respondidas com gráficos e usando como base os dados oficiais fornecidos pelo site oficial  | 3          | 1      |
+| 11   | Média      | Como cliente, quero no PowerBI,  segmentos da evolução histórica da balança comercial nos anos de 2023 a 2025 dos estados brasileiros.                 | 1          | 1      |
+| 12   | Média      | Como cliente, quero no PowerBI, crie segmentos com foco ranking por valor importado, frete e seguro dos estados brasileiros.                           | 2          | 1      |
+| 13   | Média      | Como cliente, quero no PowerBI, crie um segmento com foco no peso importado.                                                                           | 1          | 1      |
+| 14   | Média      | Como cliente, quero no PowerBI, crie um filtro por localidade.                                                                                         | 1          | 1      |
+| 15   | Média      | Como cliente, quero no PowerBI, crie um filtro para alocar o bloco de localidades.                                                                     | 2          | 1      |
+| 16   | Média      | Produzir a apresentação sobre as atualizações ou Validar via contato com cliente tais atualizações.                                                    | 2          | 1      |
+| 17   | Média      | Como cliente, quero no powerbi, crie um filtro para demonstrar as regiões das localidades produtoras.                                                  | 1          | 1      |
+| 18   | Média      | Como cliente, quero no powerbi, crie um filtro para mostrar os anos de 2023, 2024 e 2025.                                                              | 2          | 1      |
+| 19   | Média      | Como cliente, quero no powerbi, crie um filtro para que seja possivel limpar os outros filtros selecionados.                                           | 1          | 1      |
+| 20   | Média      | Como cliente, quero no powerbi, um espaço para quando for selecionado a localidade apareça sua bandeira.                                               | 1          | 1      |
+| 21   | Média      | Produzir a apresentação sobre as atualizações ou Validar via contato com cliente tais atualizações.                                                    | 2          | 1      |
+| 22   | Média      | Como cliente, quero no powerbi, adicione as funcionalidades produzidas anteriormentes a todos os outros dashboards produzidos.                         | 4          | 1      |
 
 
   
