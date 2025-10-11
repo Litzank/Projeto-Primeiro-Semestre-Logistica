@@ -73,7 +73,15 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 20   | Média      | Como cliente, quero no powerbi, um espaço para quando for selecionado a localidade apareça sua bandeira.                                               | 1          | 1      |
 | 21   | Média      | Produzir a apresentação sobre as atualizações ou Validar via contato com cliente tais atualizações.                                                    | 2          | 1      |
 | 22   | Média      | Como cliente, quero no powerbi, adicione as funcionalidades produzidas anteriormentes a todos os outros dashboards produzidos.                         | 4          | 1      |
-
+| 23   | Alta       | Como cliente, quero no Power Bi, um dashboard que mostre por códigos SH4 a exportação e importação do item selecionado.                                | 5          | 2      |
+| 24   | Média      | Como cliente, quero no Power Bi, filtros no dashboard de códigos SH4 para os anos de 2023, 2024 e 2025.                                                | 2          | 2      |
+| 25   | Média      | Como cliente, quero no Power Bi, filtros no dashboard de códigos SH4 para selecionar os estados brasileiros.                                           | 3          | 2      |
+| 26   | Média      | Como cliente, quero no Power Bi, filtros no dashboard de códigos SH4 para selecionar os municipios.                                                    | 4          | 2      |
+| 27   | Média      | Como cliente, quero no Power Bi, a criação de um template para abordar a base do dashboard de códigos SH4.                                             | 4          | 2      |
+| 28   | ALta       | Como cliente, quero no Power Bi, que haja correções relacionadas ao texto por todos os dashboards.                                                     | 2          | 2      |
+| 29   | Alta       | Como cliente, quero no Power Bi, que haja uma pesquisa sobre a aparição de dados incoerentes com os modais                                             | 3          | 2      |
+| 30   | Alta       | Como cliente, quero no Power Bi, que os dashboards de importação e exportação de municípios e estados estejam demonstrando suas respectivas informações. | 4        | 2      |
+| 31   | Média      | 2° Produzir a apresentação sobre as atualizações ou Validar via contato com cliente tais atualizações.                                                 | 2          | 2      |
 
   
 # Registro das Sprints
