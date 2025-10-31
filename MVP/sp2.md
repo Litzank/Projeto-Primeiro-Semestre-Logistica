@@ -16,8 +16,8 @@
 - Funcionalidades principais incluídas  
 - Limitações conhecidas  
 - Escopo reduzido (somente o essencial para validar a ideia)  
-Para conseguir construir a visualização das cargas com seus codigos, será criado um novo dashboard exclusivo para
-demonstração de exportação e importação de uma mercadoria por seu codigo, podendo ser examinado, visualizando suas
+Para conseguir construir a visualização das cargas com seus codigos, será criado um novo filtro exclusivo agregado
+a exportação e importação de uma mercadoria por seu codigo, podendo ser examinado, visualizando suas
 quedas e crescimentos, ver todo o conteudo vindo de cada estado ou municipio.
 ---
 
@@ -31,11 +31,11 @@ quedas e crescimentos, ver todo o conteudo vindo de cada estado ou municipio.
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US23 | Como cliente, quero no Power Bi, um dashboard que mostre por códigos SH4 a exportação e importação do item selecionado.         | Alta       | 5 pontos   |
-| US24 | Como cliente, quero no Power Bi, filtros no dashboard de códigos SH4 para os anos de 2023, 2024 e 2025.                         | Média      | 3 pontos   |
-| US25 | Como cliente, quero no Power Bi, filtros no dashboard de códigos SH4 para selecionar os estados brasileiros.                    | Média      | 3 pontos   |
-| US26 | Como cliente, quero no Power Bi, filtros no dashboard de códigos SH4 para selecionar os municipios.                             | Média      | 3 pontos   |
-| US27 | Como cliente, quero no Power Bi, a criação de um template para abordar a base do dashboard de códigos SH4.                      | Média      | 3 pontos   |
+| US23 | Como cliente, quero no Power Bi, um filtro que mostre por códigos SH4 a métricas dos produtos selecionados.                     | Alta       | 5 pontos   |
+| US24 | Como cliente, quero no Power Bi, a substituição do filtro de bloco pela filtro de códigos SH4.                                  | Média      | 3 pontos   |
+| US25 | Como cliente, quero no Power Bi, filtro de codigos SH4 seja implementado em todos os dashboards.                                | Média      | 3 pontos   |
+| US26 | Como cliente, quero no Power Bi, adaptação dos códigos SH4 para NCM nos dashboards de Estados.                                  | Média      | 3 pontos   |
+| US27 | Como cliente, quero no Power Bi, uma tela direcionada a demonstração do rank dos item de maior valor agregado.                  | Média      | 3 pontos   |
 | US28 | Como cliente, quero no Power Bi, que haja correções relacionadas ao texto por todos os dashboards.                              | Alta       | 3 pontos   |
 | US29 | Como cliente, quero no Power Bi, que haja uma pesquisa sobre a aparição de dados incoerentes com os modais                      | Alta       | 3 pontos   |
 | US30 | Como cliente, quero no Power Bi, que os dashboards de importação e exportação de municípios e estados estejam demonstrando suas respectivas informações.         | Alta      | 3 pontos   |
@@ -70,7 +70,8 @@ quedas e crescimentos, ver todo o conteudo vindo de cada estado ou municipio.
 - Melhorias planejadas após feedback  
 - Ajustes de usabilidade  
 - Expansão de funcionalidades para próximo incremento  
-
+Adição de pedidos do cliente em relação ao um filtro de regiões dos municipios para se conseguir algo parecido com as regiões do pais e adaptação visual para que todo a leitura e design cheguem
+a expectativa do cliente.
 ---
 
 ## 📂 Anexos / Evidências
