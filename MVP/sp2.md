@@ -60,8 +60,8 @@ quedas e crescimentos, ver todo o conteudo vindo de cada estado ou municipio.
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP : 2  
-- Feedback qualitativo (positivo - Construição seguindo de maneira positiva quanto ao cliente, ideias propostas aceitas e organização validados/negativo - Problemas em estruturar o MVP, lidar com os dados de peso e valores)  
+- Número de usuários que testaram o MVP : 4  
+- Feedback qualitativo (positivo - Construição seguindo de maneira positiva quanto ao cliente, ideias propostas aceitas e organização validadas - Problemas em estruturar o MVP, demonstrar dados de NCM e SH4)  
 - Indicadores de negócio (Aumento de exportações e importações, novos mercados)   
 
 ---
@@ -77,4 +77,7 @@ a expectativa do cliente.
 ## 📂 Anexos / Evidências
 - Prints de tela  
 - Fluxos ou protótipos  
-- Vídeo (MVP)  
+- Vídeo (MVP)
+
+-[Video do Dashboard Final](https://youtu.be/yKRLGr-zVUw)
+-[Arquivo do Dashboard Final](https://drive.google.com/file/d/1-I8HK4Daz1Qj79HUTbgOloNyHVxCOMWQ/view?usp=drive_link)
