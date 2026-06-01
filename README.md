@@ -90,5 +90,5 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 |-------------------|------------|----------|-----------|
 | 01                | 29/09/2025 | Concluido| [MVP](MVP/sp1.md)  |
 | 02                | 20/10/2025 | Concluido| [MVP](MVP/sp2.md)  |
-| 03                | 17/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
+| 03                | 17/11/2025 | Concluido| [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 04/12/2025 | Concluido| [MVP](#)  |
